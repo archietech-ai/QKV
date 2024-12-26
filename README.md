@@ -21,9 +21,11 @@ But in a bit more realistic way first we calculate the "attention weigh". I have
 
 Now we want to perform real self-attention like the way it is implemented in the original transformer.
 
-![image](https://github.com/user-attachments/assets/2036638e-8dc2-4e93-8c20-c81c983af9b4)
+![image](https://github.com/user-attachments/assets/04e00326-fc32-4a72-8776-5ee10ad15768)
 
-![image](https://github.com/user-attachments/assets/847e7511-b5f6-46be-aa65-c625b2496cae)
+
+![image](https://github.com/user-attachments/assets/fdf48328-0a0c-422d-bdea-d2e1ed6faeb4)
+
 
 
 
