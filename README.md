@@ -7,7 +7,10 @@ We want to use a query matrix and multiply that in key matrices. In a simple ter
 
 But in a bit more realistic way it is like below
 
-![image](https://github.com/user-attachments/assets/925e7bdb-a65b-4b7d-9b24-557d752fca26)
+![image](https://github.com/user-attachments/assets/3183ec2c-7f6f-4ba5-8847-cefcf81af34b)
+![image](https://github.com/user-attachments/assets/de84c53b-cf77-4632-a28f-4a1407c83194)
+
+
 
 
 
