@@ -27,6 +27,9 @@ Now we want to perform real self-attention like the way it is implemented in the
 ![image](https://github.com/user-attachments/assets/fdf48328-0a0c-422d-bdea-d2e1ed6faeb4)
 
 
+## Single Head 
+![LLM-Page-3 drawio](https://github.com/user-attachments/assets/e0e1ff14-707f-4614-a551-6bc3cca47208)
+
 
 
 
