@@ -1,9 +1,14 @@
 # QKV
 
 ## Simple Self attention
-![image](https://github.com/user-attachments/assets/e973e6a7-4c3e-4c25-baac-debf0ed9a329)
 
-![image](https://github.com/user-attachments/assets/1077f51d-e55b-4e1e-88a3-5e039cd0c9d4)
+We want to use a query matrix and multiply that in key matrices. In a simple term it will be like:
+![image](https://github.com/user-attachments/assets/8f71f2cb-e96d-49bd-a688-679ad6e1c5a9)
+
+But in a bit more realistic way it is like below
+
+![image](https://github.com/user-attachments/assets/925e7bdb-a65b-4b7d-9b24-557d752fca26)
+
 
 
 
