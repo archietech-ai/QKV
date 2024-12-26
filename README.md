@@ -28,7 +28,3 @@ Now we want to perform real self-attention like the way it is implemented in the
 
 
 
-
-##  Self attention
-
-
